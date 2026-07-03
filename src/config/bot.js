@@ -484,4 +484,4 @@ async def on_ready():
     except Exception as e:
         print(f"❌ Error al sincronizar automáticamente: {e}")
 
-bot.run(MTUyMjQzNTQzNDU1MzE1MTU4MQ.Gyrg4H.LWs13699P0msGGCeHRAmNLNscK3l1CeSpo_nwU)
+bot.run(TOKEN)
